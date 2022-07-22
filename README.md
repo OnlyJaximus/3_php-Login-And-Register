@@ -1,0 +1,2 @@
+# 3_php_login_and_register
+In this assignment I used bootstrap and database. The task is to create a login and register form. I did not use SQL Injection Prevention  in this task and php password hash.  This is left for changing the task as well as for application in one of the following tasks in the future. The tasks range from simpler examples to more complicated ones.  The focus is on logic and not so much on the appearance of the page.
