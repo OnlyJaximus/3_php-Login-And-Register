@@ -7,3 +7,4 @@ The application is used for logging in and registering users. The goal in this e
 ![2](https://user-images.githubusercontent.com/56784702/201075386-c5f8b55a-0eb3-4a6e-8584-61fd5157c0dd.png)
 ![3](https://user-images.githubusercontent.com/56784702/201075391-0ad5fc97-b025-4000-97de-066473247c23.png)
 ![4](https://user-images.githubusercontent.com/56784702/201075395-08360871-345f-456a-b041-2d8060c8feb0.png)
+![8](https://user-images.githubusercontent.com/56784702/203373579-dc808190-1a35-4d6c-b962-58e140c31d9c.png)
